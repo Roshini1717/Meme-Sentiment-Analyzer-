@@ -1,5 +1,8 @@
+venv/
+backend/meme_models/
+backend/models/
+*.pt
+*.safetensors
 node_modules/
 .env
-__pycache__/
-venv/
-dist/
+meme_analysis.db
